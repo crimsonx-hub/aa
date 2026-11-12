@@ -1,7 +1,4 @@
--- PRIVACY-CLEANED COPY: reporting, webhook sharing, Hive downloads, and remote Lua UI loading disabled.
--- RobScript Team - Anime Adventures · Robly Airflow
--- Task navigation: Home, Farm, Units, Battle, Activity, Settings.
--- Readable source cached for restarting and continuing after teleports.
+
 local AIRFLOW_SOURCE = [====[
 -- RobScript Team - Anime Adventures — Robly Airflow
 -- Decoded all 4,177 string constants and renamed outer modules for readability.
